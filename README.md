@@ -40,9 +40,7 @@ With economic development, China's charitable donations market continued to grow
 ## Project Display
 * **Poster**
 ![](./Display/Poster.jpg)
-
 * **Main UI** -Content UI
 ![](./Display/Function-UserInformation.jpg)
-
 * **Main UI** -User UI
 ![](./Display/Function2.png)
