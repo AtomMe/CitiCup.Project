@@ -1,6 +1,0 @@
-framework module ScreenShot {
-  umbrella header "ScreenShot.h"
-
-  export *
-  module * { export * }
-}
